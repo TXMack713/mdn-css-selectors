@@ -3,7 +3,7 @@ ul.practice a {
 }
 
 ul.practice a[title] {
-  border-color: pink;
+  border-color: red;
 }
 
 ul.practice a[href*='contact'] {
