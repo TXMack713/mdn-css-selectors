@@ -1,0 +1,15 @@
+ul.practice a {
+  border: 3px solid grey;
+}
+
+ul.practice a[title] {
+  border-color: pink;
+}
+
+ul.practice a[href*='contact'] {
+  border-color: orange;
+}
+
+ul.practice a[href^='https'] {
+  border-color: green;
+}
